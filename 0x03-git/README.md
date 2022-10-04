@@ -1,4 +1,4 @@
-##Learning Objectives
+## Learning Objectives
 
   # What is source code management
   # What is Git
